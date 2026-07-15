@@ -1,0 +1,101 @@
+movie_id	title	release_year	genre	director	runtime_min	imdb_rating	language	country	box_office_million_usd
+1	The Godfather	1972	Crime/Drama	Francis Ford Coppola	175	9.2	English	USA	246.1
+2	The Shawshank Redemption	1994	Drama	Frank Darabont	142	9.3	English	USA	58.3
+3	The Dark Knight	2008	Action/Crime	Christopher Nolan	152	9.0	English	USA	1006.0
+4	Pulp Fiction	1994	Crime/Drama	Quentin Tarantino	154	8.9	English	USA	213.9
+5	Forrest Gump	1994	Drama/Romance	Robert Zemeckis	142	8.8	English	USA	678.2
+6	Inception	2010	Sci-Fi/Action	Christopher Nolan	148	8.8	English	USA	836.8
+7	Fight Club	1999	Drama	David Fincher	139	8.8	English	USA	100.9
+8	The Matrix	1999	Sci-Fi/Action	Lana & Lilly Wachowski	136	8.7	English	USA	465.3
+9	Goodfellas	1990	Crime/Drama	Martin Scorsese	145	8.7	English	USA	46.8
+10	The Lord of the Rings: The Fellowship of the Ring	2001	Fantasy/Adventure	Peter Jackson	178	8.9	English	USA/NZ	897.7
+11	Se7en	1995	Crime/Thriller	David Fincher	127	8.6	English	USA	327.3
+12	The Silence of the Lambs	1991	Thriller/Horror	Jonathan Demme	118	8.6	English	USA	272.7
+13	Saving Private Ryan	1998	War/Drama	Steven Spielberg	169	8.6	English	USA	481.8
+14	Schindler's List	1993	Biography/Drama	Steven Spielberg	195	9.0	English	USA	322.2
+15	The Green Mile	1999	Fantasy/Drama	Frank Darabont	189	8.6	English	USA	286.8
+16	Interstellar	2014	Sci-Fi/Drama	Christopher Nolan	169	8.7	English	USA/UK	701.7
+17	The Prestige	2006	Drama/Mystery	Christopher Nolan	130	8.5	English	USA/UK	109.7
+18	The Departed	2006	Crime/Thriller	Martin Scorsese	151	8.5	English	USA	291.5
+19	Gladiator	2000	Action/Drama	Ridley Scott	155	8.5	English	USA/UK	465.4
+20	The Usual Suspects	1995	Crime/Mystery	Bryan Singer	106	8.5	English	USA	23.3
+21	Leon: The Professional	1994	Crime/Drama	Luc Besson	110	8.5	English/French	France/USA	45.3
+22	American History X	1998	Crime/Drama	Tony Kaye	119	8.5	English	USA	23.9
+23	City of God	2002	Crime/Drama	Fernando Meirelles	130	8.6	Portuguese	Brazil	30.6
+24	Life Is Beautiful	1997	Comedy/Drama	Roberto Benigni	116	8.6	Italian	Italy	230.1
+25	Spirited Away	2001	Animation/Fantasy	Hayao Miyazaki	125	8.6	Japanese	Japan	395.0
+26	Parasite	2019	Thriller/Drama	Bong Joon-ho	132	8.5	Korean	South Korea	263.1
+27	Whiplash	2014	Drama/Music	Damien Chazelle	106	8.5	English	USA	49.0
+28	The Intouchables	2011	Comedy/Drama	Olivier Nakache	112	8.5	French	France	426.6
+29	Grave of the Fireflies	1988	Animation/War	Isao Takahata	89	8.5	Japanese	Japan	0.5
+30	Back to the Future	1985	Sci-Fi/Adventure	Robert Zemeckis	116	8.5	English	USA	388.8
+31	Alien	1979	Sci-Fi/Horror	Ridley Scott	117	8.5	English	USA/UK	106.3
+32	Terminator 2: Judgment Day	1991	Sci-Fi/Action	James Cameron	137	8.6	English	USA/France	520.9
+33	Star Wars: Episode IV - A New Hope	1977	Sci-Fi/Adventure	George Lucas	121	8.6	English	USA	775.4
+34	Star Wars: Episode V - The Empire Strikes Back	1980	Sci-Fi/Adventure	Irvin Kershner	124	8.7	English	USA	538.4
+35	Raiders of the Lost Ark	1981	Action/Adventure	Steven Spielberg	115	8.4	English	USA	389.9
+36	Psycho	1960	Horror/Thriller	Alfred Hitchcock	109	8.5	English	USA	50.0
+37	12 Angry Men	1957	Drama	Sidney Lumet	96	9.0	English	USA	4.0
+38	Casablanca	1942	Romance/Drama	Michael Curtiz	102	8.5	English	USA	3.7
+39	Rear Window	1954	Mystery/Thriller	Alfred Hitchcock	112	8.5	English	USA	36.8
+40	Sunset Boulevard	1950	Drama/Noir	Billy Wilder	110	8.4	English	USA	5.0
+41	Vertigo	1958	Mystery/Thriller	Alfred Hitchcock	128	8.3	English	USA	7.3
+42	It's a Wonderful Life	1946	Drama/Fantasy	Frank Capra	130	8.6	English	USA	3.3
+43	Citizen Kane	1941	Drama/Mystery	Orson Welles	119	8.3	English	USA	1.6
+44	Apocalypse Now	1979	War/Drama	Francis Ford Coppola	147	8.4	English	USA	150.0
+45	Taxi Driver	1976	Crime/Drama	Martin Scorsese	114	8.2	English	USA	28.3
+46	The Shining	1980	Horror	Stanley Kubrick	146	8.4	English	USA/UK	47.0
+47	A Clockwork Orange	1971	Sci-Fi/Crime	Stanley Kubrick	136	8.3	English	UK/USA	26.6
+48	2001: A Space Odyssey	1968	Sci-Fi	Stanley Kubrick	149	8.3	English	USA/UK	146.0
+49	Full Metal Jacket	1987	War/Drama	Stanley Kubrick	116	8.3	English	UK/USA	46.4
+50	Reservoir Dogs	1992	Crime/Thriller	Quentin Tarantino	99	8.3	English	USA	2.9
+51	Kill Bill: Vol. 1	2003	Action/Crime	Quentin Tarantino	111	8.2	English	USA	180.9
+52	Django Unchained	2012	Western/Drama	Quentin Tarantino	165	8.4	English	USA	425.4
+53	Inglourious Basterds	2009	War/Drama	Quentin Tarantino	153	8.3	English/German/French	USA/Germany	321.5
+54	Once Upon a Time in Hollywood	2019	Comedy/Drama	Quentin Tarantino	161	7.6	English	USA	374.6
+55	No Country for Old Men	2007	Crime/Thriller	Coen Brothers	122	8.2	English	USA	171.6
+56	Fargo	1996	Crime/Comedy	Coen Brothers	98	8.1	English	USA/UK	60.6
+57	The Big Lebowski	1998	Comedy/Crime	Coen Brothers	117	8.1	English	USA/UK	46.2
+58	There Will Be Blood	2007	Drama	Paul Thomas Anderson	158	8.2	English	USA	76.1
+59	Blade Runner	1982	Sci-Fi/Noir	Ridley Scott	117	8.1	English	USA/UK	41.6
+60	Blade Runner 2049	2017	Sci-Fi/Drama	Denis Villeneuve	164	8.0	English	USA/UK	267.2
+61	Arrival	2016	Sci-Fi/Drama	Denis Villeneuve	116	7.9	English	USA	203.4
+62	Dune	2021	Sci-Fi/Adventure	Denis Villeneuve	155	8.0	English	USA	407.6
+63	Mad Max: Fury Road	2015	Action/Adventure	George Miller	120	8.1	English	Australia/USA	380.0
+64	The Revenant	2015	Adventure/Drama	Alejandro G. Inarritu	156	8.0	English	USA	533.7
+65	Birdman	2014	Comedy/Drama	Alejandro G. Inarritu	119	7.7	English	USA	103.2
+66	Moonlight	2016	Drama	Barry Jenkins	111	7.4	English	USA	65.3
+67	La La Land	2016	Musical/Romance	Damien Chazelle	128	8.0	English	USA	448.9
+68	Get Out	2017	Horror/Thriller	Jordan Peele	104	7.8	English	USA	255.4
+69	Us	2019	Horror/Thriller	Jordan Peele	116	6.8	English	USA	255.1
+70	Everything Everywhere All at Once	2022	Sci-Fi/Comedy	Daniel Kwan & Daniel Scheinert	139	7.8	English	USA	143.4
+71	Oppenheimer	2023	Biography/Drama	Christopher Nolan	180	8.3	English	USA/UK	975.8
+72	Barbie	2023	Comedy/Fantasy	Greta Gerwig	114	6.9	English	USA	1446.0
+73	Dunkirk	2017	War/Action	Christopher Nolan	106	7.8	English	UK/USA	526.9
+74	1917	2019	War/Drama	Sam Mendes	119	8.2	English	UK/USA	384.6
+75	Joker	2019	Crime/Drama	Todd Phillips	122	8.4	English	USA	1074.0
+76	Avengers: Endgame	2019	Action/Sci-Fi	Anthony & Joe Russo	181	8.4	English	USA	2797.8
+77	Avatar	2009	Sci-Fi/Adventure	James Cameron	162	7.9	English	USA	2923.7
+78	Titanic	1997	Romance/Drama	James Cameron	195	7.9	English	USA	2264.7
+79	Jurassic Park	1993	Sci-Fi/Adventure	Steven Spielberg	127	8.2	English	USA	1029.2
+80	E.T. the Extra-Terrestrial	1982	Sci-Fi/Family	Steven Spielberg	115	7.9	English	USA	792.9
+81	Jaws	1975	Thriller/Horror	Steven Spielberg	124	8.1	English	USA	476.5
+82	The Lion King	1994	Animation/Family	Roger Allers & Rob Minkoff	88	8.5	English	USA	968.5
+83	Toy Story	1995	Animation/Family	John Lasseter	81	8.3	English	USA	373.6
+84	Finding Nemo	2003	Animation/Family	Andrew Stanton	100	8.2	English	USA	940.3
+85	Up	2009	Animation/Adventure	Pete Docter	96	8.3	English	USA	735.1
+86	WALL-E	2008	Animation/Sci-Fi	Andrew Stanton	98	8.4	English	USA	521.3
+87	Coco	2017	Animation/Family	Lee Unkrich	105	8.4	English	USA	807.1
+88	Inside Out	2015	Animation/Family	Pete Docter	95	8.1	English	USA	858.8
+89	Spider-Man: Into the Spider-Verse	2018	Animation/Action	Bob Persichetti, Peter Ramsey, Rodney Rothman	117	8.4	English	USA	384.3
+90	Your Name	2016	Animation/Romance	Makoto Shinkai	106	8.4	Japanese	Japan	380.1
+91	Princess Mononoke	1997	Animation/Fantasy	Hayao Miyazaki	134	8.4	Japanese	Japan	169.7
+92	My Neighbor Totoro	1988	Animation/Family	Hayao Miyazaki	86	8.1	Japanese	Japan	41.4
+93	Amelie	2001	Comedy/Romance	Jean-Pierre Jeunet	122	8.3	French	France	174.0
+94	Pan's Labyrinth	2006	Fantasy/Drama	Guillermo del Toro	118	8.2	Spanish	Mexico/Spain	83.9
+95	The Shape of Water	2017	Fantasy/Romance	Guillermo del Toro	123	7.3	English	USA	195.2
+96	Roma	2018	Drama	Alfonso Cuaron	135	7.7	Spanish	Mexico	3.1
+97	Children of Men	2006	Sci-Fi/Thriller	Alfonso Cuaron	109	7.9	English	UK/USA	70.0
+98	Gravity	2013	Sci-Fi/Thriller	Alfonso Cuaron	91	7.7	English	USA/UK	723.2
+99	Her	2013	Sci-Fi/Romance	Spike Jonze	126	8.0	English	USA	48.5
+100	Eternal Sunshine of the Spotless Mind	2004	Sci-Fi/Romance	Michel Gondry	108	8.3	English	USA	74.0
